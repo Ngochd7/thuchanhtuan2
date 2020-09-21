@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-<h1>Bài mới</h1>
+<h1>Bài viết của mình: </h1>
 
 <ul>
   {% for post in site.posts %}
